@@ -20,6 +20,6 @@ public class Vehicle : MonoBehaviour
         _motorRight.maxMotorTorque = torgue;
 
         wheelLeft.motor = _motorLeft;
-        wheelRight.motor = _motorRight;        
+        wheelRight.motor = _motorRight;
     }
 }
